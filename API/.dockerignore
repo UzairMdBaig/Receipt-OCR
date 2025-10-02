@@ -1,0 +1,5 @@
+ocrenv
+Dockerfile
+.dockerignore
+.gitignore
+.git

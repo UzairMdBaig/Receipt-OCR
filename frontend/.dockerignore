@@ -1,0 +1,12 @@
+node_modules
+dist
+build
+.git
+.gitignore
+Dockerfile
+.dockerignore
+*.log
+.vscode
+.idea
+.DS_Store
+Thumbs.db
